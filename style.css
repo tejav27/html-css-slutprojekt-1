@@ -242,7 +242,7 @@ section.hero-man-baby {
 
 section.hero-man-baby .hero-man-baby__inner {
     height: 100%;
-    background-image: url(/images/man-baby.png);
+    background-image: url(images/man-baby.png);
     background-repeat: no-repeat;
     background-position: right 0 bottom 0;
 }
@@ -305,7 +305,7 @@ section.map .map__bg::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(/images/map.png);
+    background-image: url(images/map.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -320,7 +320,7 @@ section.map .map__bg:after {
     top: calc(50% - var(--icon-height)/2);
     width: var(--icon-width);
     height: var(--icon-height);
-    background-image: url(/images/pin.png);
+    background-image: url(images/pin.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -524,7 +524,7 @@ section.map .map-card {
 .fab {
     appearance: none;
     background-color: var(--color-blue-light);
-    background-image: url(/images/expand_less_black_24dp.svg);
+    background-image: url(images/expand_less_black_24dp.svg);
     background-repeat: no-repeat;
     background-size: contain;
     border-radius: 100%;
