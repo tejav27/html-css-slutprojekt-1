@@ -1,2 +1,2 @@
-# html-css-slutprojekt
-Final html-css project sept. 2021
+# HTML-CSS-slutprojekt
+This is the first ever project made. <br/>This is a simple project containing only HTML and CSS.
